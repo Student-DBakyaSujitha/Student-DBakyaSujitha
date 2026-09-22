@@ -1,16 +1,137 @@
-## Hi there 👋
+# 👋 Hi, I'm Bakya Sujitha!
 
-<!--
-**Student-DBakyaSujitha/Student-DBakyaSujitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech Information Technology Student | 💻 Aspiring IT Professional
 
-Here are some ideas to get you started:
+I'm an Information Technology student who enjoys learning new technologies,
+building projects, and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Java, Python, DSA, SQL & Git/GitHub**
+
+🚀 Exploring **Software Development, Data & AI**
+
+🎯 Goal: To continuously learn, build, and grow as a technology professional.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+---
+
+## 🚀 Featured Projects
+
+### 📄 [Resume Gap Analyzer](https://github.com/Student-DBakyaSujitha/resumegap-analyzer-suji)
+AI-based tool that analyzes resumes, identifies skill gaps, and suggests suitable career opportunities and learning paths.
+
+**Tech:** `Python` `AI` `Data Analysis`
+
+---
+
+### 🚦 [Traffic Signal Controller](https://github.com/Student-DBakyaSujitha/Pyexpo26-)
+A traffic management project designed to control signals based on vehicle density.
+
+**Tech:** `Python` `HTML` `Data Processing`
+
+---
+
+### 📝 [Sentence Forge](https://github.com/Student-DBakyaSujitha/Sentence-forge)
+An interactive learning website that helps users improve sentence formation through engaging challenges.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 🧮 [Advanced Calculator](https://github.com/Student-DBakyaSujitha/Advanced-calculator)
+A mathematical application implementing numerical methods including Newton-Raphson, Lagrange interpolation, and Euler's method.
+
+**Tech:** `HTML` `CSS` `Numerical Methods`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Student-DBakyaSujitha&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-DBakyaSujitha&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Student-DBakyaSujitha&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- ☕ Java & Object-Oriented Programming
+- 🐍 Python
+- 🧠 Data Structures & Algorithms
+- 🗄️ SQL & Database Management
+- 🔧 Git & GitHub
+- 🤖 Exploring AI & Data Technologies
+
+---
+
+## 🌱 About Me
+
+I'm a curious IT student who enjoys exploring technology and turning ideas into practical projects.
+
+💡 Interested in **problem-solving and software development**
+
+🎨 I also enjoy **designing, creating, and experimenting with ideas**
+
+🧩 I like learning by **building projects and trying things hands-on**
+
+🌱 Currently improving my skills in **Java, Python, DSA, SQL, and Git/GitHub**
+
+🚀 Always looking for opportunities to **learn something new and build something useful**
+
+---
+
+## 🎯 Goals
+
+- 💻 Strengthen my programming fundamentals
+- 🧠 Improve my problem-solving skills
+- 🚀 Build more real-world projects
+- 🤝 Collaborate on interesting projects
+- 📚 Keep learning new technologies
+
+---
+
+> **"Learn → Build → Experiment → Improve → Repeat 🔁"**
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** *(https://www.linkedin.com/in/bakya-sujitha-345931377/)*
+
+📧 **Email:** *dbakyasujitha@gmail.com*
+
+---
+
+⭐ Thanks for visiting my profile!
+
+**Let's learn, build and grow together! 🚀**
