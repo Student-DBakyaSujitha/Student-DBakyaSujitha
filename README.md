@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=180&section=header&text=Bakya%20Sujitha&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+</p>
+---
+<h3 align="center">B.Tech Information Technology Student | Aspiring IT Professional</h3>
+
+<p align="center">
+  💻 Learning • 🚀 Building • 🧠 Exploring • 🌱 Growing
+</p>
+---
 # 👋 Hi, I'm Bakya Sujitha!
 
 ---
@@ -77,6 +87,26 @@ A mathematical application implementing numerical methods including Newton-Raphs
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Student-DBakyaSujitha&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-DBakyaSujitha&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github" />
+</p>
+
+<p align="center">
+  Data Structures & Algorithms • Object-Oriented Programming • AI & Data Technologies
 </p>
 
 ---
