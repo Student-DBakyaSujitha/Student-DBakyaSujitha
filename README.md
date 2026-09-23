@@ -1,16 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=180&section=header&text=Bakya%20Sujitha&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
----
+
 <h3 align="center">B.Tech Information Technology Student | Aspiring IT Professional</h3>
 
 <p align="center">
   💻 Learning • 🚀 Building • 🧠 Exploring • 🌱 Growing
 </p>
----
+
 # 👋 Hi, I'm Bakya Sujitha!
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Developer;Learning+Java+%7C+Python+%7C+DSA;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
@@ -79,15 +78,6 @@ An interactive learning website that helps users improve sentence formation thro
 A mathematical application implementing numerical methods including Newton-Raphson, Lagrange interpolation, and Euler's method.
 
 **Tech:** `HTML` `CSS` `Numerical Methods`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Student-DBakyaSujitha&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-DBakyaSujitha&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
@@ -176,6 +166,14 @@ I'm a curious IT student who enjoys exploring technology and turning ideas into 
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Student-DBakyaSujitha&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
