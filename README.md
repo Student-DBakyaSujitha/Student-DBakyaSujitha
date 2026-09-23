@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Bakya Sujitha!
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Developer;Learning+Java+%7C+Python+%7C+DSA;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+</p>
+
 ### 🎓 B.Tech Information Technology Student | 💻 Aspiring IT Professional
 
 I'm an Information Technology student who enjoys learning new technologies,
@@ -126,9 +132,31 @@ I'm a curious IT student who enjoys exploring technology and turning ideas into 
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** *(https://www.linkedin.com/in/bakya-sujitha-345931377/)*
+<p align="center">
 
-📧 **Email:** *dbakyasujitha@gmail.com*
+<a href="https://www.linkedin.com/in/bakya-sujitha-345931377/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dbakyasujitha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Student-DBakyaSujitha">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+💙 **Let's learn, build and grow together!**
+
+</p>
 
 ---
 
