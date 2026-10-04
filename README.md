@@ -1,95 +1,96 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=180&section=header&text=Bakya%20Sujitha&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
-</p>
+<div align="center">
 
-<h3 align="center">B.Tech Information Technology Student | Aspiring IT Professional</h3>
+# Bakya Sujitha💜
 
-<p align="center">
-  💻 Learning • 🚀 Building • 🧠 Exploring • 🌱 Growing
-</p>
+### INFORMATION TECHNOLOGY • DESIGNING • CREATIVE PROBLEM SOLVING
 
-# 👋 Hi, I'm Bakya Sujitha!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+into+Digital+Experiences;Learning+%7C+Designing+%7C+Creating" alt="Animated introduction" />
 
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Developer;Learning+Java+%7C+Python+%7C+DSA;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+   Learning • Building • Exploring • Growing
 </p>
 
-### 🎓 B.Tech Information Technology Student | 💻 Aspiring IT Professional
+# Hi, I'm Bakya Sujitha!!
+
+
+### 🎓 B.Tech Information Technology Student | Aspiring IT Professional
 
 I'm an Information Technology student who enjoys learning new technologies,
 building projects, and solving problems through code.
 
-🌱 Currently learning **Java, Python, DSA, SQL & Git/GitHub**
+ Currently learning **Java, Python, DSA, SQL & Git/GitHub**
 
-🚀 Exploring **Software Development, Data & AI**
+ Exploring **Software Development, Data & AI**
 
-🎯 Goal: To continuously learn, build, and grow as a technology professional.
+ Goal: To continuously learn, build, and grow as a technology professional.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming
+### Programming
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🗄️ Database
+### Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+
 ---
+## Featured Projects
 
-## 🚀 Featured Projects
-
-### 📄 [Resume Gap Analyzer](https://github.com/Student-DBakyaSujitha/resumegap-analyzer-suji)
+### [Resume Gap Analyzer](https://github.com/Student-DBakyaSujitha/resumegap-analyzer-suji)
 AI-based tool that analyzes resumes, identifies skill gaps, and suggests suitable career opportunities and learning paths.
 
 **Tech:** `Python` `AI` `Data Analysis`
 
 ---
 
-### 🚦 [Traffic Signal Controller](https://github.com/Student-DBakyaSujitha/Pyexpo26-)
+### [Traffic Signal Controller](https://github.com/Student-DBakyaSujitha/Pyexpo26-)
 A traffic management project designed to control signals based on vehicle density.
 
 **Tech:** `Python` `HTML` `Data Processing`
 
 ---
 
-### 📝 [Sentence Forge](https://github.com/Student-DBakyaSujitha/Sentence-forge)
+### [Sentence Forge](https://github.com/Student-DBakyaSujitha/Sentence-forge)
 An interactive learning website that helps users improve sentence formation through engaging challenges.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
 ---
 
-### 🧮 [Advanced Calculator](https://github.com/Student-DBakyaSujitha/Advanced-calculator)
+### [Advanced Calculator](https://github.com/Student-DBakyaSujitha/Advanced-calculator)
 A mathematical application implementing numerical methods including Newton-Raphson, Lagrange interpolation, and Euler's method.
 
 **Tech:** `HTML` `CSS` `Numerical Methods`
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,mysql,git,github,vscode" />
 </p>
 
----
 
-## 🌱 Currently Exploring
+---
+## Currently Exploring
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github" />
@@ -100,57 +101,72 @@ A mathematical application implementing numerical methods including Newton-Raphs
 </p>
 
 ---
-
-## 🔥 Contribution Streak
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Student-DBakyaSujitha&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Student-DBakyaSujitha&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-DBakyaSujitha&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most used languages"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Student-DBakyaSujitha&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
 
-## 📚 Currently Learning
-
-- ☕ Java & Object-Oriented Programming
-- 🐍 Python
-- 🧠 Data Structures & Algorithms
-- 🗄️ SQL & Database Management
-- 🔧 Git & GitHub
-- 🤖 Exploring AI & Data Technologies
 
 ---
+##  Currently Learning
 
-## 🌱 About Me
-
-I'm a curious IT student who enjoys exploring technology and turning ideas into practical projects.
-
-💡 Interested in **problem-solving and software development**
-
-🎨 I also enjoy **designing, creating, and experimenting with ideas**
-
-🧩 I like learning by **building projects and trying things hands-on**
-
-🌱 Currently improving my skills in **Java, Python, DSA, SQL, and Git/GitHub**
-
-🚀 Always looking for opportunities to **learn something new and build something useful**
+-  Java & Object-Oriented Programming
+-  Python
+-  Data Structures & Algorithms
+-  SQL & Database Management
+-  Git & GitHub
+-  Exploring AI & Data Technologies
 
 ---
 
-## 🎯 Goals
+## About Me
 
-- 💻 Strengthen my programming fundamentals
-- 🧠 Improve my problem-solving skills
-- 🚀 Build more real-world projects
-- 🤝 Collaborate on interesting projects
-- 📚 Keep learning new technologies
+- I'm a curious IT student who enjoys exploring technology and turning ideas into practical projects.
+
+- Interested in **problem-solving and software development**
+
+- I also enjoy **designing, creating, and experimenting with ideas**
+
+- I like learning by **building projects and trying things hands-on**
+
+- Currently improving my skills in **Java, Python, DSA, SQL, and Git/GitHub**
+
+- Always looking for opportunities to **learn something new and build something useful**
 
 ---
 
-> **"Learn → Build → Experiment → Improve → Repeat 🔁"**
+## Goals
+
+-  Strengthen my programming fundamentals
+-  Improve my problem-solving skills
+-  Build more real-world projects
+-  Collaborate on interesting projects
+-  Keep learning new technologies
 
 ---
 
-## 📫 Connect With Me
+> **"Learn → Build → Experiment → Improve → Repeat "**
+
+---
+
+## Connect With Me
 
 <p align="center">
 
@@ -168,12 +184,19 @@ I'm a curious IT student who enjoys exploring technology and turning ideas into 
 
 </p>
 
+
 ---
 
-## 👀 Profile Visitors
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey!!%2C+thanks+for+visiting!;Welcome+to+Bakya+Sujitha's+profile!;Let's+build+something+creative." alt="Welcome animation" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Student-DBakyaSujitha&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Student-DBakyaSujitha&label=Profile%20Visits&color=blueviolet&style=for-the-badge" alt="Profile visit counter" />
+</p>
+
+<p align="center">
+  <b>You are visitor number (among recorded page views) in my coding journey!</b>
 </p>
 
 ---
@@ -185,9 +208,3 @@ I'm a curious IT student who enjoys exploring technology and turning ideas into 
 💙 **Let's learn, build and grow together!**
 
 </p>
-
----
-
-⭐ Thanks for visiting my profile!
-
-**Let's learn, build and grow together! 🚀**
